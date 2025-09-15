@@ -25,9 +25,4 @@
             ]
         }
     },
-    "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/daniellemujicaWSU/backpack-7-beta"
-    }
 }
